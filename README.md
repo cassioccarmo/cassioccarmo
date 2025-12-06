@@ -42,6 +42,7 @@ B.Sc. Electrical Engineering — UFSCar (2013–2023)
 
 ## Contact
 
-LinkedIn: https://linkedin.com/in/cassioccarmo  
-GitHub: https://github.com/cassioccarmo
+LinkedIn: https://linkedin.com/in/cassioccarmo<br>
+GitHub: https://github.com/cassioccarmo<br>
 Email: cassiocioni@hotmail.com
+
