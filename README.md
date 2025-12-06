@@ -1,4 +1,4 @@
-# Cássio Carmo
+# Cássio Cioni Carmo
 
 Embedded Software Engineer with experience in automotive ECUs, autonomous drones, and industrial/residential automation. I work with firmware development, debugging and optimization using C, C++ and Python, focusing on high-reliability embedded systems. Strong hands-on experience with STM32, ESP32, ESP8266 and ATmega microcontrollers, as well as CAN, SPI, I2C, LoRa, WiFi and Bluetooth communication.
 
@@ -43,5 +43,5 @@ B.Sc. Electrical Engineering — UFSCar (2013–2023)
 ## Contact
 
 LinkedIn: https://linkedin.com/in/cassioccarmo  
-GitHub: https://github.com/CassioCioniCarmo  
+GitHub: https://github.com/cassioccarmo
 Email: cassiocioni@hotmail.com
