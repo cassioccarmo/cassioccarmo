@@ -34,8 +34,8 @@ Embedded development for drones and ground stations. Wireless communication (WiF
 
 ## Education
 
-Postgraduate Certificate in Embedded Systems for the Automotive Industry — UTFPR (2024–2025)  
-Postgraduate Certificate in Industrial Automation — UTFPR (2024–2025)  
+Postgraduate Certificate in Embedded Systems for the Automotive Industry — UTFPR (2024–2026)  
+Postgraduate Certificate in Industrial Automation — UTFPR (2024–2026)  
 B.Sc. Electrical Engineering — UFSCar (2013–2023)
 
 ---
